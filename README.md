@@ -8,9 +8,10 @@ Meu objetivo é criar experiências digitais únicas, combinando design e funcio
 
 ## 🚀 Minhas Habilidades
 - **Linguagens e Tecnologias:**
-  - HTML5, CSS3 e JavaScript (Básico ao Avançado)
-  - Bootstrap para designs responsivos
-  - Experiência com ferramentas como jQuery e Slick.js
+  - HTML5, CSS3 e JavaScript (Básico ao Avançado);
+  - Pré-processador Sass;
+  - Bootstrap para designs responsivos;
+  
 
 - **Projetos Desenvolvidos:**
   - **Valois Hotel:** Página responsiva para hotel com carrosséis de imagens.
