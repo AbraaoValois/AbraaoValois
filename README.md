@@ -30,7 +30,7 @@ Atualmente, estou me aprofundando em:
 
 ## 📫 Contato
 - **Email:** [valoisabraao@gmail.com](mailto:valoisabraao@gmail.com)
-- **LinkedIn:** [SeuPerfil](https://www.linkedin.com/in/abraao-valois)
+- **LinkedIn:** [Abraao Valois](https://www.linkedin.com/in/abraao-valois)
 
 <!--
 **AbraaoValois/AbraaoValois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
