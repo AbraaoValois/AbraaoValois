@@ -28,6 +28,7 @@ Meu objetivo é criar experiências digitais únicas, combinando design e funcio
 Atualmente, estou me aprofundando em:
 - JavaScript (incluindo lógica de programação)
 - Ritmos e escalas no violão, como um hobby criativo.
+- Web Desing Responsive na FreeCodeCamp. 
 
 ## 📫 Contato
 - **Email:** [valoisabraao@gmail.com](mailto:valoisabraao@gmail.com)
