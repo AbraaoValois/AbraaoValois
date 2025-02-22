@@ -44,9 +44,9 @@ Atualmente, estou me aprofundando em:
 
 ## Contatos
 
-[![Email](https://img.shields.io/badge/Email-valoisabraao@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:valoisabraao@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abraao--valois-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraao-valois/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+55953561741-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55953561741)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:valoisabraao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraao-valois/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55953561741)
 
 
 <!--
