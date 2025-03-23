@@ -21,8 +21,8 @@ Meu objetivo é criar experiências digitais únicas, combinando design e funcio
 - **Projetos Desenvolvidos:**
   - **Valois Hotel:** Página responsiva para hotel com carrosséis de imagens.
   - **Esquina Black Adega:** Projeto de adega usando Bootstrap.
-  - **V&C LOG:** Projeto para uma empresa de logística.
-  - Blog sobre arbitragem no futebol brasileiro.
+  - **Pizzaria Catuca's:** Projeto para uma Pizzaria de Bairro.
+  
 
 - **Habilidades Complementares:**
   - Manutenção de computadores e notebooks
