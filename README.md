@@ -22,6 +22,7 @@ Meu objetivo é criar experiências digitais únicas, combinando design e funcio
   - **Valois Hotel:** Página responsiva para hotel com carrosséis de imagens.
   - **Esquina Black Adega:** Projeto de adega usando Bootstrap.
   - **Pizzaria Catuca's:** Projeto para uma Pizzaria de Bairro.
+  - **Controle de Vendas** Projeto para uma adega de Bairro.
   
 
 - **Habilidades Complementares:**
