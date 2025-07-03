@@ -40,12 +40,11 @@ Meu objetivo é criar experiências digitais únicas, combinando design e funcio
 ## 🌱 O Que Estou Aprendendo
 Atualmente, estou me aprofundando em:
 - JavaScript (incluindo lógica de programação)
-- Ritmos e escalas no violão, como um hobby criativo.
 - Python3
 - Flask
 - React
 - JavaScript
-- 
+- Java
 ## 📫 Contato:
 
 
