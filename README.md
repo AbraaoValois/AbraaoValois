@@ -43,7 +43,6 @@ Atualmente, estou me aprofundando em:
 - Python3
 - Flask
 - React
-- JavaScript
 - Java
 ## 📫 Contato:
 
