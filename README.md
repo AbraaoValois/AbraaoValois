@@ -29,10 +29,8 @@ Algumas das tecnologias que utilizo no meu dia a dia:
 
 
 - **Projetos Desenvolvidos:**
-  - **Valois Hotel:** Página responsiva para hotel com carrosséis de imagens.
-  - **Esquina Black Adega:** Projeto de adega usando Bootstrap.
-  - **Pizzaria Catuca's:** Projeto para uma Pizzaria de Bairro.
-  - **Controle de Vendas** Projeto para uma adega de Bairro.
+ | **Space Tourism** | Site de exploração espacial com HTML, CSS e JS | [GitHub](https://github.com/AbraaoValois/space-tourism-website) |
+| **To-Do List Flask** | Aplicação de tarefas com autenticação e SQLite | [GitHub](https://github.com/AbraaoValois/To-Do-List-Flask) |
   
 
 - **Habilidades Complementares:**
