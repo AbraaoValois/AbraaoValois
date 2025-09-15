@@ -1,5 +1,8 @@
 # 👋 Olá, eu sou o Abraão!
 
+![GitHub followers](https://img.shields.io/github/followers/AbraaoValois?style=social)
+![GitHub stars](https://img.shields.io/github/stars/AbraaoValois?style=social)
+
 ## 👨‍💻 Sobre Mim
 Sou apaixonado por tecnologia e desenvolvimento web! Sempre em busca de aprendizado e aprimoramento, atualmente estou cursando 
 **Análise e Desenvolvimento de Sistemas** e tenho formação em **Front-End**. 
